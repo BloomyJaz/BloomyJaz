@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BloomyJaz
 - 👀 I’m interested in social justice, art, and creativity.
-- 🌱 I’m currently learning nothing at the moment
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on offering ideas and suggestions.
 - 📫 How to reach me https://bloomyjaz.carrd.co/
 
